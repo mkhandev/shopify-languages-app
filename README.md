@@ -12,10 +12,10 @@ update shopify credentials
 - SHOPIFY_API_KEY
 - SHOPIFY_API_SECRET
 
-## composer install then add migration
+### composer install then add migration
 
-- ** composer install
-- ** php artisan migrate
+- **composer install**
+- **php artisan migrate**
 
 ## from shopify app settup
 
