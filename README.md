@@ -8,21 +8,21 @@ add database connection
 - DB_PASSWORD=
 
 update shopify credentials
-SHOPIFY_APP_URL
-SHOPIFY_API_KEY
-SHOPIFY_API_SECRET
+- SHOPIFY_APP_URL
+- SHOPIFY_API_KEY
+- SHOPIFY_API_SECRET
 
 ## composer install then add migration
 
-** composer install
-** php artisan migrate
+- ** composer install
+- ** php artisan migrate
 
 ## from shopify app settup
 
-** add App URL. Example: https://salmon-present-newly.ngrok-free.app
-** Allowed redirection URL. Example: https://salmon-present-newly.ngrok-free.app/authenticate
+- ** add App URL. Example: https://salmon-present-newly.ngrok-free.app
+- ** Allowed redirection URL. Example: https://salmon-present-newly.ngrok-free.app/authenticate
 
 ## From terminal go to directory cd app_extension
 
-** npm install
-** npm run dev
+- ** npm install
+- ** npm run dev
