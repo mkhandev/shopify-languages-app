@@ -1,0 +1,22 @@
+# Learn more about configuring your app at https://shopify.dev/docs/apps/tools/cli/configuration
+
+name = "Languages App"
+client_id = "35f9a964ebd080560a918015a8d645ea"
+application_url = "https://salmon-present-newly.ngrok-free.app"
+embedded = true
+
+[access_scopes]
+# Learn more at https://shopify.dev/docs/apps/tools/cli/configuration#access_scopes
+use_legacy_install_flow = true
+
+[auth]
+redirect_urls = [ "https://salmon-present-newly.ngrok-free.app/authenticate" ]
+
+[webhooks]
+api_version = "2024-01"
+
+[pos]
+embedded = false
+
+[build]
+dev_store_url = "bd-demo-shop.myshopify.com"
