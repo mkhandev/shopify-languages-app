@@ -27,5 +27,5 @@
 - npm install
 - npm run dev
 
-### After successfuly install app, You must need to enable Languages app from theme app ebmedes.
+### After successfuly install app, You must need to enable Languages app from theme app ebmedes settings
 Then you can see laguages app from store front bottom right corner
