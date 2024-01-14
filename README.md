@@ -1,4 +1,4 @@
-## Install this Languages, Please follow the next steps
+## Install shopify Languages App, Please follow the next steps
 
 ### Update .env file
 
